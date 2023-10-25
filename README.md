@@ -6,8 +6,8 @@ Systems Architect -> Developed a concept of operations outlining the proposed sy
 
 Circuit Designer -> Created detailed design diagrams, focusing on circuit diagrams to provide a low-level overview of the system's architecture.
 
-Simulink Modeler -> Utilized simulink to model the physical and functional behavior of individual components based on the detailed design specifications. Developed simulation models for each ECU and verified their behavior using test data to ensure they operated as expected within the designed system.
+Simulink Modeler -> Utilized simulink to model the physical and functional behavior of individual components based on detailed design specifications. Developed simulation models for each ECU and verified their behavior using test data to ensure they operated as expected within the designed system.
 
 Quality Assurance Engineer -> Developed and executed test plans to validate the functionality and performance of the modeled components and the integrated system. Conducted system-in-the-loop (SIL) testing to verify the interactions between ECUs and ensured they aligned with the approved system requirements.
 
-Documentation Specialist -> Created detailed and comprehensive documentation for the entire project, including ConOps. Requirements and architecture documents, Circuit Diagrams, and Simulink models.
+Documentation Specialist -> Created detailed and comprehensive documentation for the entire project, including ConOps, Requirements and architecture documents, Circuit Diagrams, and Simulink models.
